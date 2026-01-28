@@ -296,10 +296,6 @@ main section h2 {
 }
 
 /* ===== Scroll animation (Message) ===== */
-.fade-in.is-show {
-  opacity: 1;
-  transform: translateY(0);
-}
 
 .fade-up{
     opacity: 0;
